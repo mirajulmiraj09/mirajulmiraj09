@@ -1,14 +1,226 @@
-<h1 align="center">Hi 👋, I'm MD. MERAJUL ISLAM</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm MD. Merajul Islam</h1>
 
-- 📫 How to reach me **bsse1502@iit.du.ac.bd**
+<h3 align="center">
+Full Stack Developer | Software Engineer | AI & Machine Learning Enthusiast
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md. merajul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. merajul islam" height="30" width="40" /></a>
+<p align="center">
+Building scalable web applications, intelligent systems, and modern software solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+arev.com/ghpvc/?username=mirajulmiraj09&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirajulmiraj09&show_icons=true&locale=en&layout=compact" alt="mirajulmiraj09" /></p>
+---
+
+## 🚀 About Me
+
+- 🎓 BSSE Student
+- 💻 Full Stack Developer
+- 🤖 Currently learning Machine Learning, AI, and LLM Technologies
+- 🌱 Exploring Cloud Computing, Docker, MLOps, and AI Security
+- 🔭 Interested in AI-Powered Applications and Enterprise Software Development
+- 📫 Reach me at: **bsse1502@iit.du.ac.bd**
+- ⚡ Passionate about solving real-world problems through software and AI
+
+---
+
+## 🎯 Current Learning Roadmap
+
+```text
+Full Stack Development
+        ↓
+Python Development
+        ↓
+Machine Learning
+        ↓
+Generative AI & LLM
+        ↓
+Cloud Computing
+        ↓
+AI Security
+        ↓
+MLOps
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+https://linkedin.com/in/YOUR-LINKEDIN
+skillicons.dev/icons?i=linkedin" alt="linkedin"/>
+</a>
+
+<a href="mailto:bsse1502@iit.du.ac.bd">
+https://skillicons.dev/icons?i=gmail
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+</p>
+
+### 🎨 Frontend Development
+
+<p align="left">
+skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,angular" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+licons.dev/icons?i=django,fastapi,spring,nodejs" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons/>
+</p>
+
+<p>
+<img src="https://cdn.simpleicons.org/oracle/F80000" width="48" heightMachine Learning
+
+<p align="left">
+licons.dev/icons?i=python" />
+</p>
+
+- NumPy
+- Pandas
+- Seaborn
+- Matplotlib
+- Scikit-Learn
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+/icons?i=git,github,linux,docker,vscode" />
+</p>
+
+---
+
+## 🏆 Core Competencies
+
+✅ Full Stack Web Development
+
+✅ REST API Development
+
+✅ Software Architecture & Design
+
+✅ Object-Oriented Programming (OOP)
+
+✅ Database Design & Management
+
+✅ Version Control (Git & GitHub)
+
+✅ Data Structures & Algorithms
+
+✅ Machine Learning Fundamentals
+
+✅ Problem Solving
+
+✅ Agile Development
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Large Language Models (LLMs)
+- Docker
+- Cloud Computing (Azure & AWS)
+- AI Security
+- MLOps
+
+---
+
+## 🚀 Featured Technologies
+
+```text
+Frontend     : HTML, CSS, Bootstrap, Tailwind, React, Angular
+Backend      : Django, FastAPI, Spring Boot
+Languages    : Python, Java, JavaScript, TypeScript, C, C++
+Database     : MySQL, PostgreSQL, SQLite, Oracle
+Tools        : Git, GitHub, Linux, Docker
+Data Science : NumPy, Pandas, Seaborn, Scikit-Learn
+```
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirajulmiraj09&show_icons=true&theme=tokyonight"<img height="180em" src="https://github-readme-stats.?username=mirajulmiraj09&layout=compact&theme=tokyonight
+</p>
+
+<p align="center">
+ats.herokuapp.com/?user=mirajulmiraj09&theme=tokyonight" />
+</p>
+
+---
+
+## 🏅 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mirajulmiraj09&themet&margin-w=15&margin-h=15
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+://github-readme-activity-graph.vercel.app/graph?username=mirajulmiraj09&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎯 Career Goal
+
+I aspire to become a professional:
+
+- AI Engineer
+- Machine Learning Engineer
+- Full Stack Engineer
+- AI Security Engineer
+- MLOps Engineer
+- AI Solutions Architect
+
+By combining expertise in:
+
+```text
+Software Engineering
+      +
+Full Stack Development
+      +
+Machine Learning
+      +
+Generative AI
+      +
+Cloud Computing
+      +
+AI Security
+      +
+MLOps
+```
+
+---
+
+## 💡 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+<p align="center">
+⭐ Building • Learning • Innovating • Growing
+</p>
