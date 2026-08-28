@@ -678,7 +678,7 @@ and replace every occurrence with your actual GitHub username.
 Example:
 
 ```text
-YOUR_GITHUB_USERNAME
+vmirajulmiraj09
 ```
 
 becomes:
