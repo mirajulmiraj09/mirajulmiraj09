@@ -367,65 +367,32 @@ Areas I am interested in exploring in the future include:
 
 <div align="center">
 
-<picture>
-
-<source
-srcset="https://github-readme-stats.vercel.app/api?username=mirajulmiraj09&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000"
-media="(prefers-color-scheme: dark)"
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirajulmiraj09&theme=tokyonight"
+  width="100%"
+  alt="GitHub Profile Summary"
 />
 
-<source
-srcset="https://github-readme-stats.vercel.app/api?username=mirajulmiraj09&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"
-media="(prefers-color-scheme: light)"
+<br/><br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirajulmiraj09&theme=tokyonight"
+  height="170"
+  alt="GitHub Stats"
 />
 
 <img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=mirajulmiraj09&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"
-alt="Md. Merajul Islam GitHub Stats"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirajulmiraj09&theme=tokyonight"
+  height="170"
+  alt="Languages by Repository"
 />
 
-</picture>
-
-<picture>
-
-<source
-srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mirajulmiraj09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000"
-media="(prefers-color-scheme: dark)"
-/>
-
-<source
-srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mirajulmiraj09&layout=compact&langs_count=8&theme=transparent&hide_border=true"
-media="(prefers-color-scheme: light)"
-/>
+<br/><br/>
 
 <img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirajulmiraj09&layout=compact&langs_count=8&theme=transparent&hide_border=true"
-alt="Most Used Languages"
+  src="https://streak-stats.demolab.com?user=mirajulmiraj09&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
 />
-
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://streak-stats.demolab.com?user=mirajulmiraj09&theme=tokyonight&hide_border=true&background=00000000"
-/>
-
-<img
-src="https://streak-stats.demolab.com?user=mirajulmiraj09&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</picture>
 
 </div>
 
@@ -436,14 +403,12 @@ alt="GitHub Streak"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=mirajulmiraj09&theme=tokyo-night&hide_border=true&area=true&radius=8"
-width="100%"
-alt="Md. Merajul Islam GitHub Contribution Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=mirajulmiraj09&theme=tokyo-night&hide_border=true&area=true&radius=8"
+  width="100%"
+  alt="GitHub Activity Graph"
 />
 
 </div>
-
----
 
 # 🌱 My Development Journey
 
